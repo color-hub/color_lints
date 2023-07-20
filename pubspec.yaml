@@ -1,0 +1,10 @@
+name: color_lints
+version: 1.0.0
+publish_to: https://onepub.dev/api/yhohnoflyg/
+homepage: https://colorhub.online
+repository: https://github.com/color-hub/color_lints
+description: Package provides Color Hub lint rules
+environment: 
+  sdk: '>=2.18.0 <4.0.0'
+dev_dependencies: 
+  flutter_lints: ^2.0.1
